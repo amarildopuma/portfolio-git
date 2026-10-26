@@ -1,5 +1,7 @@
-# Meu Portfólio
+# Meu Portfólio - Projetos
 
 # Adicição aleatoria para a atividade
 
-## Meus Projetosgit add README.md
+## Meus Projetos
+- Batalha Naval (Python)
+- Portfolio Git
