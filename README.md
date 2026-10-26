@@ -1,4 +1,4 @@
-# Meu Portfólio - Projetos
+# Meu Portfólio - Projetos e Habilidades
 
 # Adicição aleatoria para a atividade
 
