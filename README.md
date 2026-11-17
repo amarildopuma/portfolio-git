@@ -15,6 +15,7 @@ Portfólio de Amarildo Junior, estudante de Engenharia de Computação no CEFET-
 
 ## Estrutura do repositório
 
+```
 portfolio-git/
 ├── README.md        # Apresentação do portfólio
 ├── sobre.md         # Sobre mim
@@ -23,6 +24,7 @@ portfolio-git/
 ├── LICENCA.md       # Licença do repositório
 ├── _config.yml      # Configuração do GitHub Pages
 └── .gitignore       # Arquivos ignorados pelo Git
+```
 
 ## Fluxo de trabalho
 
@@ -32,3 +34,10 @@ O repositório foi desenvolvido seguindo o fluxo colaborativo trabalhado no curs
 - **Branches** por tarefa: `feature/secao-projetos`, `feature/secao-habilidades`, `docs/reflexao`, `docs/readme-profissional` e `feat/github-pages`
 - **Pull Requests** para integrar as branches na `main`
 - **Issues** encerradas automaticamente com `Closes #N` nos Pull Requests
+
+## Mais informações
+
+- [Sobre mim](sobre.md)
+- [Contato](contato.md)
+- [Reflexão sobre o curso](reflexao.md)
+- [Licença](LICENCA.md)
